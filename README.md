@@ -1,6 +1,5 @@
 # virtualmouse : with mediapipe
-[![Open in Code Ocean](https://codeocean.com/capsule/2106afd4-27bd-49f1-9860-13c38afd80d3/)]
-
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/2106afd4-27bd-49f1-9860-13c38afd80d3/)
 
 (This is a re-released version of virtumouse)
 
